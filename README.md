@@ -1,3 +1,4 @@
+
 # Capstone Project - Introduction to Computer Programming
 
 ## Overview
@@ -10,7 +11,6 @@ Open and run the notebook directly in Google Colab:
 - **Google Colab**: [Click here to open and run](https://colab.research.google.com/drive/1ufdCJEUZgFTnpAkxB8kxSdTiaPAZUKMb?usp=sharing)
 
 ### **Alternative Views**
-- **nbviewer**: [Click here to view on nbviewer](https://nbviewer.org/github/DarshanMathpal/Python-Capstone-Project/blob/main/Capstone%20Project%20-%20Introduction%20to%20Computer%20Programming-%20Darshan%20Mathpal.ipynb)
 - **GitHub Repository**: [View on GitHub](https://github.com/DarshanMathpal/Python-Capstone-Project)
 
 ---
