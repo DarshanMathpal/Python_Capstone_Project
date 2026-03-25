@@ -1,4 +1,4 @@
-# 🐍 Python Programming Fundamentals & Problem Solving
+# Python Programming Fundamentals & Problem Solving
 
 ## 📌 Overview
 This project demonstrates core Python programming fundamentals through practical problem-solving and coding exercises.  
@@ -7,7 +7,7 @@ It focuses on building a strong foundation in programming logic, control structu
 ---
 
 ## 🚀 Quick Access
-👉 https://colab.research.google.com/drive/1ufdCJEUZgFTnpAkxB8kxSdTiaPAZUKMb?usp=sharing
+**Click here to open and run the notebook**: [Google Colab](https://colab.research.google.com/drive/1ufdCJEUZgFTnpAkxB8kxSdTiaPAZUKMb?usp=sharing) ⭐
 
 ---
 
